@@ -1,0 +1,16 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(227,29): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(228,30): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(229,31): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(230,30): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(264,29): warning C4305:  '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(307,47): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(308,47): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(360,9): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(361,9): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 447 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  PA2check.vcxproj -> C:\Users\graphics_intern\source\repos\PA2check\x64\Release\PA2check.exe

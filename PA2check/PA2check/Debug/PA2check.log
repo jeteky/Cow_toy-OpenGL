@@ -1,0 +1,15 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(227,29): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(228,30): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(229,31): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(230,30): warning C4305:  '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(264,29): warning C4305:  '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(307,47): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(308,47): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(360,9): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WaveFrontOBJ.cpp
+  코드를 생성하고 있습니다...
+C:\Users\graphics_intern\source\repos\PA2check\PA2check\ConsoleApplication5.cpp(361,9): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1264,5): warning MSB8012: TargetPath(C:\Users\graphics_intern\source\repos\PA2check\Debug\PA2check.exe) does not match the Linker's OutputFile property value (C:\Users\graphics_intern\source\repos\PA2check\GLUT). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1266,5): warning MSB8012: TargetName(PA2check) does not match the Linker's OutputFile property value (GLUT). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1104: '..\GLUT' 파일을 열 수 없습니다.

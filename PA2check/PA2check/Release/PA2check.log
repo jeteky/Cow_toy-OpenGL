@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+  Test.cpp
+Test.obj : error LNK2001: __imp____glutInitWithExit@12 외부 기호를 확인할 수 없습니다.
+C:\Users\graphics_intern\source\repos\PA2check\Release\PA2check.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
